@@ -44,5 +44,6 @@
     "koa-static": "2.0.0",
     "lodash": "4.15.0",
     "logentries-logformat": "0.2.0"
-  }
+  },
+  "version": "1.0.1"
 }
